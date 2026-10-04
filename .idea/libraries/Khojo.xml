@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Khojo">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Khojo.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
